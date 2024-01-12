@@ -1,0 +1,6 @@
+@inproceedings{REPO331,
+    author = "Nie, Yuqi and H. Nguyen, Nam and Sinthong, Phanwadee and Kalagnanam, Jayant",
+    booktitle = "International Conference on Learning Representations",
+    title = "{A Time Series is Worth 64 Words: Long-term Forecasting with Transformers}",
+    year = "2023"
+}
